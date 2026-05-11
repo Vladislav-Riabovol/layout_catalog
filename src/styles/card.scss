@@ -96,9 +96,10 @@
 
   &__price {
     display: flex;
+    height: 18px;
     justify-content: space-between;
-    font-weight: bold;
     align-items: center;
+    margin-bottom: 24px;
 
     &__text {
       font-family: $font-main;
@@ -126,7 +127,7 @@
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-between;
-    margin-bottom: 6px;
+    margin-bottom: 24px;
   }
 
   &__reviews {
