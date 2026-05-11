@@ -28,7 +28,7 @@
   &__link {
     text-decoration: none;
     font-weight: 500;
-    color: $main-acent;
+    color: $main-accent;
     font-size: 12px;
     display: flex;
     align-items: center;
@@ -41,14 +41,14 @@
 
   &__link:hover,
   &__link.is-active {
-    color: $blue-acent;
+    color: $blue-accent;
   }
 
   &__link.is-active::after {
     content: '';
     position: absolute;
     height: 4px;
-    background: $blue-acent;
+    background: $blue-accent;
     width: 100%;
     left: 0;
     bottom: 0;
