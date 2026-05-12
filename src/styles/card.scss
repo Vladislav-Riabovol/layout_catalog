@@ -96,28 +96,25 @@
 
   &__price {
     display: flex;
-    height: 18px;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 
     &__text {
-      font-family: $font-main;
+      color: #616070;
+      text-align: left;
       font-weight: 400;
       font-size: 12px;
       line-height: 18px;
-      color: $secondary-accent;
-      letter-spacing: 0;
       margin: 0;
     }
 
     &__suma {
-      font-family: $font-main;
+      color: #060b35;
+      text-align: right;
       font-weight: 700;
       font-size: 16px;
       line-height: 18px;
-      color: $main-accent;
-      letter-spacing: 0;
       margin: 0;
     }
   }
