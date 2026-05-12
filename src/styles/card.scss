@@ -87,10 +87,10 @@
 
     &:hover {
       box-sizing: border-box;
-      background-color: $white-accent;
-      color: $blue-accent;
-      border: 1px solid $blue-accent;
       cursor: pointer;
+      background-color: $white-accent;
+      border: 1px solid $blue-accent;
+      color: $blue-accent;
     }
   }
 
