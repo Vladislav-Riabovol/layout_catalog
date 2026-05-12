@@ -99,24 +99,24 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 16px;
+  }
 
-    &__text {
-      color: #616070;
-      text-align: left;
-      font-weight: 400;
-      font-size: 12px;
-      line-height: 18px;
-      margin: 0;
-    }
+  &__text {
+    color: #616070;
+    text-align: left;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+  }
 
-    &__suma {
-      color: #060b35;
-      text-align: right;
-      line-height: 18px;
-      font-weight: 700;
-      font-size: 16px;
-      margin: 0;
-    }
+  &__suma {
+    color: #060b35;
+    text-align: right;
+    line-height: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 0;
   }
 
   &__container {
